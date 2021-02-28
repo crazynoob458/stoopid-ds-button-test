@@ -1,7 +1,7 @@
 # stoopid-ds-button-test
 a button test to test my skills in programming (note i f*** up it wont work until i decide to un f it)
 
-#how to build
+# how to build
 
 clone repo
 
